@@ -27,4 +27,4 @@ Welcome to my GitHub! I’m a passionate Data Scientist with a strong focus on b
 ## 📬 How to Reach Me
 
 - 📧 Email: [allavishnu9247@gmail.com](allavishnu9247@gmail.com)
-- 🌐 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/vishnu-vardhan-reddy-alla-9aab511b5/))
+- 🌐 LinkedIn: [Vishnu Vardhan Reddy Alla]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/vishnu-vardhan-reddy-alla-9aab511b5/))
